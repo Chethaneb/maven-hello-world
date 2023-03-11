@@ -1,0 +1,11 @@
+pipeline {
+  agent any 
+  stages{
+    stage('webhook'){
+      steps {
+        echo "webhooks Triggered"
+      }
+    }
+  }
+}  
+        
