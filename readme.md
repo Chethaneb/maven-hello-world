@@ -1,4 +1,4 @@
-# A simple, minimal Maven example: hello world
+# A simple, minimal Maven example: hello world, Triggering for Pole SCM 
 
 To create the files in this git repo we've already run `mvn archetype:generate` from http://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
 
